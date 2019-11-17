@@ -1,0 +1,10 @@
+# node
+node_modules/
+
+# project
+flow-typed/
+dist/
+temp/
+yarn-error.log
+.vscode/
+.next/

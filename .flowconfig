@@ -1,0 +1,14 @@
+[ignore]
+.*/node_modules/*
+
+[include]
+
+[libs]
+./src/type-declarations/
+[lints]
+
+[options]
+suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
+suppress_type=$FlowFixMe
+
+[strict]
